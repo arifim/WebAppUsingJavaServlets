@@ -51,6 +51,7 @@ public class EmployeeServlet extends HttpServlet {
 		out.println("Id is "+teid);
 		out.println("Employee name is "+ename);
 		out.println("Salary is "+sal);
+		System.out.println("Hello");
 		
 	}
 
