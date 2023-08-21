@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#cont {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	
+}
+form {
+        /* Optional: add styles to the form */
+        padding: 20px;
+        background-color: #f1f1f1;
+        border: 1px solid #ccc;
+}
